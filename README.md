@@ -24,27 +24,16 @@
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/Taweilo/Red_Wine_Quality_Classification_Model)
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Taweilo/Red_Wine_Quality_Classification_Model)
-
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Regression-blue)
-
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Binary%20Classification-red)
-
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Multiclass%20Classification-green)
-
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Clustering-orange)
-
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-PCA-yellow)
-
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Power%20BI-blueviolet)
-
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-
-https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
-
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![powerbi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Badge [source](https://shields.io/)
